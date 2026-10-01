@@ -6,4 +6,4 @@ Install: open https://tommytbomar-dot.github.io/tools/broken-cta/ and drag the b
 
 - `detector.js` pure analysis logic (tested: `node --test test`), `scan.js` DOM collector + panel.
 
-Limits: sites with strict CSP block bookmarklets; heuristics only. See [SUPPORT.md](SUPPORT.md) for the $97 session or email `WANT AUDIT` for a human audit. License: MIT.
+Limits: sites with strict CSP block bookmarklets; heuristics only. See [SUPPORT.md](SUPPORT.md) for the $125 session or email `WANT AUDIT` for a human audit. License: MIT.
